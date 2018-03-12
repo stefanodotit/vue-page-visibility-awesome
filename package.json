@@ -1,0 +1,53 @@
+{
+    "name": "vue-page-visibility",
+    "version": "1.0.0",
+    "description": "A Vue 2.x component of easy-to-config page visibility api",
+    "main": "dist/vue-page-visibility.min.js",
+    "files": [
+        "src",
+        "!src/demo/*",
+        "dist/*.js"
+    ],
+    "scripts": {
+        "dev": "webpack-dev-server --inline --hot --progress --colors --host 0.0.0.0 --port 3000 --config webpack.demo.config.js",
+        "build": "export NODE_ENV=production && webpack --progress --hide-modules"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stefanodotit/vue-page-visibility.git"
+    },
+    "keywords": [
+        "vue",
+        "page",
+        "visibility",
+        "page-visibility",
+        "page visibility"
+    ],
+    "author": {
+        "name": "Stefano",
+        "email": "stefanodotit@gmail.com",
+        "url": "https://github.com/stefanodotit/"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/stefanodotit/vue-page-visibility/issues"
+    },
+    "homepage": "https://github.com/stefanodotit/vue-page-visibility#readme",
+    "peerDependencies": {
+        "vue": "^2.5.13"
+    },
+    "devDependencies": {
+        "autoprefixer": "^8.1.0",
+        "babel-core": "^6.18.2",
+        "babel-loader": "^7.1.4",
+        "babel-preset-env": "^1.6.1",
+        "babel-preset-stage-2": "^6.24.1",
+        "html-webpack-plugin": "^3.0.6",
+        "vue": "^2.5.13",
+        "vue-html-loader": "^1.2.4",
+        "vue-loader": "^14.2.1",
+        "vue-template-compiler": "^2.5.13",
+        "webpack": "^3.11.0",
+        "webpack-dev-server": "^2.11.2"
+    }
+}
