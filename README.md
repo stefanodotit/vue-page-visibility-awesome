@@ -4,12 +4,12 @@ A Vue 2.x component of easy-to-config page visibility api
 
 ### Introduction
 
-[Demo](https://github.com/stefanodotit/vue-page-visibility)
+[Demo](https://github.com/stefanodotit/vue-page-visibility-awesome)
 
 ## Install
 
 ```
-$ npm install vue-page-visibility --save
+$ npm i vue-page-visibility-awesome --save
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ $ npm install vue-page-visibility --save
 ```
 
 ```JS
-import VuePageVisibility from 'vue-page-visibility'
+import VuePageVisibility from 'vue-page-visibility-awesome'
 
 new Vue({
     components: {
@@ -42,10 +42,10 @@ new Vue({
 
 ## Contribute
 
-Feel free to [open an issue](https://github.com/stefanodotit/vue-page-visibility/issues) if you find a bug.
+Feel free to [open an issue](https://github.com/stefanodotit/vue-page-visibility-awesome/issues) if you find a bug.
 
 Feature requests and PRs are welcome.
 
 ## LICENSE
 
-MIT Licensed. See [LICENSE](https://github.com/stefanodotit/vue-page-visibility/blob/master/LICENSE).
+MIT Licensed. See [LICENSE](https://github.com/stefanodotit/vue-page-visibility-awesome/blob/master/LICENSE).
