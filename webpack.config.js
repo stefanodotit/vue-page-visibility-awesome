@@ -6,7 +6,7 @@ module.exports = {
     entry: './src/vue-page-visibility.vue',
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'vue-page-visibility.min.js',
+        filename: 'vue-page-visibility-awesome.min.js',
         library: 'VuePageVisibility',
         libraryTarget: 'umd'
     },
