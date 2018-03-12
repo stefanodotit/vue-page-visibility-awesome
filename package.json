@@ -1,5 +1,5 @@
 {
-    "name": "vue-page-visibility-awesome-awesome",
+    "name": "vue-page-visibility-awesome",
     "version": "1.0.0",
     "description": "A Vue 2.x component of easy-to-config page visibility api",
     "main": "dist/vue-page-visibility-awesome.min.js",
