@@ -1,4 +1,4 @@
-# vue-page-visibility 
+# vue-page-visibility-awesome
 
 A Vue 2.x component of easy-to-config page visibility api
 
