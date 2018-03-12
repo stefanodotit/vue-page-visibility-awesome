@@ -4,7 +4,7 @@ A Vue 2.x component of easy-to-config page visibility api
 
 ### Introduction
 
-[Demo](https://sevenoutman.github.io/vue-aplayer)
+[Demo](https://github.com/stefanodotit/vue-page-visibility)
 
 ## Install
 
@@ -42,10 +42,10 @@ new Vue({
 
 ## Contribute
 
-Feel free to [open an issue](https://github.com/SevenOutman/vue-aplayer/issues) if you find a bug.
+Feel free to [open an issue](https://github.com/stefanodotit/vue-page-visibility/issues) if you find a bug.
 
 Feature requests and PRs are welcome.
 
 ## LICENSE
 
-MIT Licensed. See [LICENSE](https://github.com/SevenOutman/vue-aplayer/blob/master/LICENSE).
+MIT Licensed. See [LICENSE](https://github.com/stefanodotit/vue-page-visibility/blob/master/LICENSE).
