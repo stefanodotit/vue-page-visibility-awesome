@@ -1,8 +1,8 @@
 {
-    "name": "vue-page-visibility",
+    "name": "vue-page-visibility-awesome-awesome",
     "version": "1.0.0",
     "description": "A Vue 2.x component of easy-to-config page visibility api",
-    "main": "dist/vue-page-visibility.min.js",
+    "main": "dist/vue-page-visibility-awesome.min.js",
     "files": [
         "src",
         "!src/demo/*",
@@ -14,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/stefanodotit/vue-page-visibility.git"
+        "url": "git+https://github.com/stefanodotit/vue-page-visibility-awesome.git"
     },
     "keywords": [
         "vue",
@@ -30,9 +30,9 @@
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/stefanodotit/vue-page-visibility/issues"
+        "url": "https://github.com/stefanodotit/vue-page-visibility-awesome/issues"
     },
-    "homepage": "https://github.com/stefanodotit/vue-page-visibility#readme",
+    "homepage": "https://github.com/stefanodotit/vue-page-visibility-awesome#readme",
     "peerDependencies": {
         "vue": "^2.5.13"
     },
