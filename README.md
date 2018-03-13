@@ -4,7 +4,7 @@ A Vue 2.x component of easy-to-config page visibility api
 
 ### Introduction
 
-[Demo](https://github.com/stefanodotit/vue-page-visibility-awesome)
+[Demo](https://vue-page-visibility-awesome-demo-znzqxnueqd.now.sh/)
 
 ## Install
 
